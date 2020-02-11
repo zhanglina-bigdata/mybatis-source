@@ -1,0 +1,19 @@
+|名称|默认值|说明|
+|--- |--- |--- |
+|IbatisException|||
+|PersistenceException|||
+|BindingException|||
+|ReflectionException|||
+|LogException|||
+|ExecutorException|||
+|TypeException|||
+|BuilderException|||
+|TransactionException|||
+|PluginException|||
+|SqlSessionException|||
+|ResultMapException|||
+|ScriptingException|||
+|DataSourceException|||
+|CacheException|||
+|ParsingException|||
+|TooManyResultsException|||
